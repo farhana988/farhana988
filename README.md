@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Frontend Deve;oper<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I usually do baking</p>
+<p align="left">- 🔭 I’m working as a Frontend Developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I usually do baking</p>
 
 ###
 
