@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Frontend Developer<br>- 📚 Recently Graduated <br>- 💻On a journey to master Next.js <br>- ⚡ In my free time I usually do baking</p>
+<p align="left">- 🔭 Frontend Developer<br>- 📚 Recently Graduated <br>- 💻On a journey to master Next.js <br>- ⚡ In my free time I usually do baking</p>
 
 ###
 
