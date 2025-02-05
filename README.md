@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">A passionate Web Developer from Bangladesh</p>
+<p align="center">A passionate Web Developer from Bangladesh who loves bringing ideas to life on the web. With experience in React, Node.js, and JavaScript, I enjoy solving problems and creating smooth, interactive user experiences. </p>
 
 ###
 
